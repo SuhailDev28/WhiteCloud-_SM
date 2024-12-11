@@ -225,7 +225,7 @@ p {
 
 .scroll-top:hover {
   color: #fff;
-  background: rgba(232, 80, 91, 0.8);
+  background: #2e2c79;
 }
 
 @keyframes animation1 {
