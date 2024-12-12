@@ -1,5 +1,3 @@
-    01.COMMON css 
-===========================*/
 @import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&family=Heebo:wght@300;400;500;600;700&display=swap");
 html {
   scroll-behavior: smooth;
@@ -1601,7 +1599,6 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 
-
 .service-section .single-service:hover {
   box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);
 }
@@ -1995,5 +1992,3 @@ p {
   padding: 10px 12px;
   position: relative;
 }
-
-
